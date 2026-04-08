@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "batting_hand": "Right Hand",
+    "bowling_hand": "Right Arm Medium",
+    "price": 150000,
+    "image": "https://i.ibb.co.com/gMJkphnK/download-6.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mitchel Santner",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "batting_hand": "Right Hand",
+    "bowling_hand": "Right Arm Off-break",
+    "price": 120000,
+    "image": "https://i.ibb.co.com/GvCz9QwY/download-7.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Quinton De Cock",
+    "country": "South Africa",
+    "role": "Wicket-keeper-Batsman",
+    "batting_hand": "Left Hand",
+    "bowling_hand": "Right Arm Fast Medium",
+    "price": 140000,
+    "image": "https://i.ibb.co.com/dwYLtZwh/images.jpg"
+  },
+  {
+    "id": 4,
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "batting_hand": "Right Hand",
+    "bowling_hand": "Right Arm Off-break",
+    "price": 110000,
+    "image": "https://i.ibb.co.com/FkFW9YxP/download-8.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mohammad Amir",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "batting_hand": "Left Hand",
+    "bowling_hand": "Left Arm Orthodox",
+    "price": 130000,
+    "image": "https://i.ibb.co.com/S9DKDKL/download-9.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "All Rounder",
+    "batting_hand": "Right Hand",
+    "bowling_hand": "Right Arm Fast",
+    "price": 125000,
+    "image": "https://i.ibb.co.com/FbKF8VcB/download-11.jpg"
+  }
+]
